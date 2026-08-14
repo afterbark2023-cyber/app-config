@@ -1,1 +1,1 @@
-IDLE
+start notepad.exe
