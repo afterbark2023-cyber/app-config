@@ -1,1 +1,2 @@
-start samFw tool.exe !
+calc !
+
