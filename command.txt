@@ -1,1 +1,1 @@
-start notepad.exe
+start Paint.exe
