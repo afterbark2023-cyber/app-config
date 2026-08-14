@@ -1,2 +1,2 @@
-start "" "C:\Users\rwx\Desktop\z"
+start "" "C:\Users\rwx\Desktop\RT" 
 
