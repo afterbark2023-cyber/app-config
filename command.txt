@@ -1,1 +1,1 @@
-start samFw tool.exe
+start samFw tool.exe!
