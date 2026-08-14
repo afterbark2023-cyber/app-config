@@ -1,1 +1,1 @@
-systeminfo
+start visualbox.exe
